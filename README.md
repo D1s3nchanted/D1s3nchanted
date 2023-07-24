@@ -1,4 +1,4 @@
-# Hi there 👋 I'm ✨D1s3nchanted✨, A Rookie Front-End Developer.
+# Hi there 👋 I'm ✨D1s3nchanted✨, A Rookie Front-End Developer. (Updated 2023, July 24: I'm about to change careers, the commit on github only represents my personal hobby.)
 
 <div>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=D1s3nchanted&theme=cobalt" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
@@ -34,7 +34,7 @@
 </div>
 
 ## 📌 Current Address 
-<h3>✈️ Shanghai</h3>
+<h3>✈️ Hefei</h3>
 <br><br>
 
 ## 💻 Coding With: 
